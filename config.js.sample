@@ -1,0 +1,7 @@
+
+// OFFICE 365
+
+exports.office365 = {
+  "client_id" : "your-client-id",
+  "client_secret" : "your-private-key"
+}
